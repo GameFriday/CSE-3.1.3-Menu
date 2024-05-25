@@ -13,6 +13,4 @@ This is a menu made for fast food resturants who want to automate the menu order
 ---
 There are 4 verison of the menu code. Each is an improvement over each other with many new features!
 
-C isn't that bad pretty simlar to C++
-
 [logo]:2024-02-09.png
